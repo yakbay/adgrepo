@@ -12,6 +12,7 @@ from adgrepo
 BLABLABLA
 blabla
 abbaabaa
+<<<<<<< HEAD:README
 naster
 paster
 naster2
@@ -21,3 +22,7 @@ paster and naster5
 master
 master3
 
+=======
+master
+master3
+>>>>>>> 0093ebccc5ea0a4b42d50e53126fd865648dbd45:README
